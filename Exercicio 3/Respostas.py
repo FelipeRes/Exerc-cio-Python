@@ -16,6 +16,8 @@ def Mensagem():
     else:
         return "x e y ficaram iguais"
 
+#X e Y ficam iguais
+
 def TesteIf(L1, L2, L3):
     letras = '';
     if L1 == 'V':
@@ -40,7 +42,7 @@ print(TesteIf(La, Lb, Lc))
 #c)BE
 #d)FFF
 
-
+#============================================================
 def tres(x,y):
     if(x > y):
         return x
